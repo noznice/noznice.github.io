@@ -1,0 +1,30 @@
+
+.image-container{
+    text-align: center;
+    margin-top: 25px;
+}
+.image-container img1{
+    display: block;
+    margin: auto;
+}
+#img2{
+    display: flex;
+    text-align: center;
+    height: 150px;
+    width: 100%;
+}
+
+.button-container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#button1{
+    width: 50px;
+    font-size: 20px;
+    background-color: rebeccapurple;border-radius: 5px;
+
+
+}
